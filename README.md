@@ -4,9 +4,9 @@
 I'm a final-year Bachelor of Computing student based in Pretoria, specializing in backend architecture and full-stack web development. 
 
 **What am I currently working on?** 
-* Developing the CivicConnect municipal project for my Software Engineering (SEN381) Milestone 3[cite: 3].
-* Focusing on controlled construction, integration, quality, and release readiness[cite: 3]. 
-* Building an integrated release candidate[cite: 3] by configuring CI pipelines, automated test suites, and staging deployments[cite: 4].
+* Developing the CivicConnect municipal project for my Software Engineering (SEN381) Milestone 3.
+* Focusing on controlled construction, integration, quality, and release readiness. 
+* Building an integrated release candidate by configuring CI pipelines, automated test suites, and staging deployments.
 * Architecting a drone-based 3D mapping project.
 
 **What tools do I use?** 
