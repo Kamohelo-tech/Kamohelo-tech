@@ -13,4 +13,4 @@ I'm currently developing CivicConnect, a municipal service platform built with t
 
 **How to reach me?** 
 * **Email:** modzukak@gmail.com
-* **LinkedIn:** linkedin.com/in/kamohelo-mabena-6945b835a/
+* **LinkedIn:** [Kamohelo Mabena](https://www.linkedin.com/in/kamohelo-mabena-6945b835a/)
