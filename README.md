@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kamohelo 👋
 
-<!--
-**Kamohelo-tech/Kamohelo-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who am I?** 
+I'm a final-year Bachelor of Computing student based in Pretoria, specializing in backend architecture and full-stack web development. 
 
-Here are some ideas to get you started:
+**What am I currently working on?** 
+I'm currently developing CivicConnect, a municipal service platform built with the PERN stack, and architecting a drone-based 3D mapping project. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What tools do I use?** 
+* **Languages & Frameworks:** C#, .NET, Node.js, Express, React, JavaScript
+* **Databases:** PostgreSQL, MongoDB, MS SQL Server
+* **Tools & DevOps:** Docker, Prisma ORM, Git, Postman
+
+**How to reach me?** 
+* **Email:** modzukak@gmail.com
+* **LinkedIn:** linkedin.com/in/kamohelo-mabena-6945b835a/
