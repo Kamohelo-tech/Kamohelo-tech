@@ -4,12 +4,15 @@
 I'm a final-year Bachelor of Computing student based in Pretoria, specializing in backend architecture and full-stack web development. 
 
 **What am I currently working on?** 
-I'm currently developing CivicConnect, a municipal service platform built with the PERN stack, and architecting a drone-based 3D mapping project. 
+* Developing the CivicConnect municipal project for my Software Engineering (SEN381) Milestone 3[cite: 3].
+* Focusing on controlled construction, integration, quality, and release readiness[cite: 3]. 
+* Building an integrated release candidate[cite: 3] by configuring CI pipelines, automated test suites, and staging deployments[cite: 4].
+* Architecting a drone-based 3D mapping project.
 
 **What tools do I use?** 
 * **Languages & Frameworks:** C#, .NET, Node.js, Express, React, JavaScript
 * **Databases:** PostgreSQL, MongoDB, MS SQL Server
-* **Tools & DevOps:** Docker, Prisma ORM, Git, Postman
+* **Tools & DevOps:** Docker, CI Workflows, Git, Prisma ORM, Postman
 
 **How to reach me?** 
 * **Email:** modzukak@gmail.com
